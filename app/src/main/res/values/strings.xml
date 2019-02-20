@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">adivinha</string>
     <string name="botao_jogar"> jogar</string >
+    <string name="texto_numero">nenhum número</string>
 </resources>
